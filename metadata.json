@@ -1,0 +1,9 @@
+{
+  "name": "Love Lingo",
+  "description": "AI-powered relationship translator helping you understand the subtext of your partner's messages.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ]
+}
